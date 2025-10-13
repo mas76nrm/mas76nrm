@@ -4,9 +4,9 @@
 
 <!-- 📍 Iran (Remote)   -->
 
-📧 mas76nrm@gmail.com
+📧 [mas76nrm@gmail.com](mailto:mas76nrm@gmail.com)
 🔗 [linkedin.com/in/mas76nrm](https://linkedin.com/in/mas76nrm)
-💻 GitHub – [github.com/mas76nrm](https://github.com/mas76nrm)
+💻 GitHub – [mas76nrm.github.io](http://mas76nrm.github.io)
 
 ---
 
@@ -18,12 +18,12 @@ Highly Experienced software engineer with over 20 years in system-level programm
 
 ## 🛠️ Core Skills
 
-- **Backend**: PHP (Laravel, Laminas, Wordpress), Node.js (Express, NestJS), REST API, C#, Delphi
-- **Frontend**: React.js, Vue.js, HTML5, CSS3, , JavaScript/TypeScript, Bootstrap, Tailwind
+- **Backend**: PHP (Laravel, Laminas, WordPress), Node.js (Express, NestJS), REST API, C#, Delphi
+- **Frontend**: React.js, Vue.js, HTML5, CSS3, JavaScript/TypeScript, Bootstrap, Tailwind
 - **Databases**: MySQL, MongoDB, SQLite, MS SQL Server, Oracle
 - **Mobile**: React Native, PhoneGap, Native Android (Java), iOS (Swift, Obj-C)
 - **DevOps & Tools**: Git, Docker, RESTful APIs, WebSocket, Linux, Nginx/Apache
-- **Other**: VoIP systems, CRM development, ERP integration, custom CMS, Agile, Unit Testing, UML
+- **Other**: AI Agents (AG2), VoIP systems, CRM development, ERP integration, custom CMS, Agile, Unit Testing, UML
 
 ---
 
@@ -50,7 +50,6 @@ Highly Experienced software engineer with over 20 years in system-level programm
 ## 🎓 Education
 
 - **M.Sc. in Software Engineering** – Azad University, Iran
-- **B.Sc. in Software Engineering** – Azad University, Iran
 
 ---
 
